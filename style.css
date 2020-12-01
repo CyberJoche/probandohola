@@ -1,0 +1,12 @@
+H1 {
+  Font:Arial;
+  Color: orange;
+  text-align: center}
+P {
+  color: red; 
+  text-align: left} 
+.destacado{
+  font-family:Arial; 
+  color: green;
+  font-size:25px;
+  font-style:italic}
